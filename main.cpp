@@ -10,7 +10,7 @@
 
 #define STACK_SIZE	65536
 #define LOAD_PROCESS	"/bin/sh" //Load the shell process
-#define MAX_PIDS	"5"
+#define MAX_PIDS	"10"
 
 #define CGROUP_FOLDER 	"/sys/fs/cgroup/pids/container/"
 
